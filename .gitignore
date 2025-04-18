@@ -1,6 +1,7 @@
 # Node.js modules
 node_modules/
 
+**/ .env
 # Environment variable file
 .env
 
